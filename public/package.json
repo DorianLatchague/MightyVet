@@ -22,7 +22,7 @@
     "@angular/router": "~7.2.15",
     "@ng-bootstrap/ng-bootstrap": "^4.1.1",
     "@types/jquery": "^2.0.47",
-    "ajv": "^6.10.0",
+    "ajv": "^6.12.3",
     "angular-font-awesome": "^3.1.2",
     "bootstrap": "^4.3.1",
     "classlist.js": "^1.1.20150312",
